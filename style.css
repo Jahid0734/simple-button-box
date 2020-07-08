@@ -11,6 +11,7 @@
     margin-left: 100px;
 }
 .box1{
+    cursor: pointer;
     background: orange; 
     width: 200px;  
     padding: 10px;
@@ -22,6 +23,7 @@
 }
 
 .box2{
+    cursor: pointer;
     background: orange; 
     width: 200px;  
     padding: 10px;
@@ -32,6 +34,7 @@
     margin: 5px;
 }
 .box3{
+    cursor: pointer;
     background: orange; 
     width: 200px;  
     padding: 10px;
@@ -43,6 +46,17 @@
 }
 .box4{
     background: orange; 
+    width: 200px;  
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    float: left;
+    margin: 5px;
+}
+.box5{
+    cursor: pointer;
+    background: darkcyan; 
     width: 200px;  
     padding: 10px;
     text-align: center;
